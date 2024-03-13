@@ -31,6 +31,10 @@
 }
 
 @media (min-width: 700px){
+    .about-container{
+        padding: 3em 2em 2em;
+    }
+
     .intro{
         display: grid;
         grid-template: auto auto/ auto auto;
